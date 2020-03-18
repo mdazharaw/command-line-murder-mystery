@@ -1,0 +1,115 @@
+2) Name of Killer: Jeremy Bowers
+
+1) History:
+
+481  git clone https://github.com/mdazharaw/command-line-murder-mystery
+  482  cd command-line-murder-mystery/
+  483  cat instructions
+  484  open cheatsheet.md
+  485  sublime hint1
+  486  cd mystery
+  487  sublime crimescene
+  488  grep "CLUE" crimescene
+  489  grep "Annabel" people
+  490  cd interviews
+  491  ls -a
+  492  grep "Annabel"
+  493  cd Assignments
+  494  cd command-line-murder-mystery/
+  495  cat instructions
+  496  cd mystery
+  497  grep "CLUE" crimescene
+  498  ls-a
+  499  ls -a
+  500  open streets
+  501  open memberships
+  502  cd memberships
+  503  open AAA
+  504  grep "Annabel" AAA
+  505  grep "Annabel" Delta
+  506  ls -a
+  507  grep "Annabel" Delta_SkyMiles
+  508  grep "Annabel" library.txt
+  509  grep "Annabel" Museum_of_Bash_History
+  510  cat hint1
+  511  cd ...
+  512  cd ..
+  513  cd ..
+  514  cat hint1
+  515  cat hint2
+  516  cat hint3
+  517  cat hint4
+  518  cat hint5
+  519  cd mystery
+  520  grep "Annabel" people
+  521  cd ..
+  522  cat hint6
+  523  cat hint7
+  524  cat hint8
+  525  mystery
+  526  cd mystery
+  527  ls -a
+  528  cd interviews
+  529  head -n 173 streets/Mattapan_Street | tail -n 1
+  530  cd ../streets
+  531  head -n 173 streets/Mattapan_Street | tail -n 1
+  532  head -n 173 /Mattapan_Street | tail -n 1
+  533  head -n 173 Mattapan_Street | tail -n 1
+  534  head -n 176 Haley_Street | tail -n 1
+  535  cd..
+  536  cd ..
+  537  cd interviews
+  538  ls
+  539  grep "Annabel" interview-9437737
+  540  grep "Annabel" interview-871877
+  541  head interview-9437737
+  542  head interview-871877
+  543  head -n 15 interview-9437737
+  544  cd ..
+  545  cd people
+  546  grep "Annabel" people
+  547  cd streets
+  548* head -n 179 Buckingham_Palace | tail -n
+  549  ls -a
+  550  head -n 179 Buckingham_Place | tail -n 1
+  551  cd ..
+  552  cd interviews
+  553  head interview-699607
+  554  cd ..
+  555  cd vehicles
+  556  ls
+  557  grep "L337" vehicles
+  558  grep -A 5 "L337" mystery/vehicles
+  559  grep -A 5 "L337" vehicles
+  560  cd ..
+  561  ls
+  562  cd mystery
+  563  ls
+  564  cd memberships
+  565  ls
+  566  cat AAA delta library.txt  Museum_of_Bash_History | grep "Joe Germuska"y
+  567  cat AAA delta.txt library.txt  Museum_of_Bash_History | grep "Joe Germuska"y
+  568  cat AAA delta.txt library.txt  Museum_of_Bash_History | grep "Joe Germuska"
+  569  cat AAA delta.txt library.txt  Museum_of_Bash_History | grep "Jeremy Bowers"
+  570  cat AAA delta.txt library.txt  Museum_of_Bash_History | grep "Jacqui Maher"
+  571  cat AAA delta.txt library.txt  Museum_of_Bash_History | grep "Erika Owens"
+  572  cd ..
+  573  grep "Jeremy Bowers" people
+  574  grep "Jacqui Maher" people
+  575  cd streets
+  576  head -n 224 Andover_Roadt | tail -n 1
+  577  head -n 224 Andover_Road | tail -n 1
+  578  cd ..
+  579  cd interviews
+  580  head interview-904020
+  581  cd ../streets1
+  582  cd ../streets
+  583  head -n 284 Dunstable Road | tail -n 1
+  584  head -n 284 Dunstable_Road | tail -n 1
+  585  cd ../interviews
+  586  head interview-9620713
+  587  cd ..
+  588  cd..
+  589  cd ..
+  590  touch solution.txt
+  591  history
